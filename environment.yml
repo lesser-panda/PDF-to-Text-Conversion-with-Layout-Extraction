@@ -1,0 +1,7 @@
+name: pdf-converter
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - pip:
+    - PyMuPDF
